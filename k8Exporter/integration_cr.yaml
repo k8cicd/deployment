@@ -9,4 +9,4 @@ spec:
     minReplicas: 1
   expose:
     inboundPorts:
-    - 8001
+    - 8290
