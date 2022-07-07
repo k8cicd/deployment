@@ -4,7 +4,7 @@ kind: "Integration"
 metadata:
   name: "sample-integration-project\n"
 spec:
-  image: "ramilu90/wso2mi:4.1.0"
+  image: "ramilu90/wso2mi-4.1.0:1.0.0"
   deploySpec:
     minReplicas: 1
   expose:
