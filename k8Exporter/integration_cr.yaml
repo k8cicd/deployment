@@ -2,7 +2,7 @@
 apiVersion: "wso2.com/v1alpha2"
 kind: "Integration"
 metadata:
-  name: "sample-integration-project\n"
+  name: "sample-integration-project"
 spec:
   image: "ramilu90/wso2mi-4.1.0:1.0.0"
   deploySpec:
